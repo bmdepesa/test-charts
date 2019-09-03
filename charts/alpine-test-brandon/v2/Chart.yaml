@@ -1,0 +1,7 @@
+name: alpine-test-v1
+description: test description from file
+version: v3
+home: https://github.com/helm/helm
+sources:
+  - https://github.com/helm/helm
+appVersion: 3.3
